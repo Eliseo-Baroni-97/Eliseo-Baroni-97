@@ -8,8 +8,6 @@
   </a>
 </p>
 
-
-
 # 👋 About Me
 I’m a passionate Computer Engineering student focused on enhancing my experience and skills. Currently, I’m diving deeper into Full Stack development, especially on the backend side. My goal is to continuously grow and learn while sharing knowledge with the community.
 
@@ -20,7 +18,8 @@ I’m a passionate Computer Engineering student focused on enhancing my experien
 
 ## 💻 Tech Stack:
 
-## Languages:
+<h3>Languages:</h3>
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -28,15 +27,15 @@ I’m a passionate Computer Engineering student focused on enhancing my experien
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
+<h3>Technologies:</h3>
 
-
-## Technologies:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-### Version Controll & Tools 
+<h3>Version Controll & Tools</h3>
+ 
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
 
 
