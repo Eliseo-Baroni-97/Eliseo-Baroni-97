@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="/assets/Banner-final.png" alt="Banner" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00B4C5&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Eliseo+Baroni" alt="Typing SVG" />
   </a>
