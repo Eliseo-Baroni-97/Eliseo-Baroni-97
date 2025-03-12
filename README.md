@@ -43,10 +43,8 @@ I’m a passionate Computer Engineering student focused on enhancing my experien
 <div style="display: flex; flex-direction: column; align-items: center;">
   <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 1200px; height: 150px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliseo-Baroni-97&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 48%;"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Eliseo-Baroni-97&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 48%;"/>
   </div>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eliseo-Baroni-97&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </div>
 
 
